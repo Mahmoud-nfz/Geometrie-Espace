@@ -1,2 +1,2 @@
 # Geometrie-Espace
-A desktop app for making calculations in a 3d euclidean space
+A desktop app made with python and tkinter for making calculations in a 3 dimensional euclidean space.
